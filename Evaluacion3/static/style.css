@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center; /* Centrar el contenido */
+}
+
+h1 {
+    color: #333;
+}
+
+a.button {
+    display: inline-block; /* Mostrar como botón en línea */
+    text-decoration: none; /* Eliminar subrayado */
+    background-color: #007BFF; /* Color de fondo */
+    color: white; /* Color de texto */
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    margin: 10px 0; /* Margen entre botones */
+    width: 150px; /* Ancho fijo */
+}
+
+a.button:hover {
+    background-color: #0056b3; /* Color de fondo al pasar el ratón */
+}
